@@ -1,0 +1,2 @@
+C:\Users\terho.craven\OneDrive - Innofactor Plc\Documents\Learning\Lautapelihinnat\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\terho.craven\OneDrive - Innofactor Plc\Documents\Learning\Lautapelihinnat\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
